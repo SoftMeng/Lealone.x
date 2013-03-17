@@ -1,11 +1,12 @@
 Douyu
 =====
+**已暂停开发**
 
 一种新颖的将编译器、HTTP服务器、MVC框架、ORM框架有效结合的Java开发平台
 
-Douyu开发测试环境搭建
+开发测试环境搭建
 =====
-https://github.com/zhh2009/Douyu/wiki/Douyu%E5%BC%80%E5%8F%91%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA
+[Douyu开发测试环境搭建](https://github.com/codefollower/Douyu/wiki/Douyu%E5%BC%80%E5%8F%91%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
 
 1. 要生成eclipse工程请运行:
 =====
